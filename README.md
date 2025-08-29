@@ -1,9 +1,11 @@
-
+<img width="4096" height="4096" alt="cdnlogo com_cisco-systems" src="https://github.com/user-attachments/assets/ebf02fc3-e630-49a1-bb7b-970116ab6d8a" />
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, It's me Divya S!😇
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+UI%2FUX+Designer;I'm+a+Network+Engineer;)
 
 ## My Skill Set  
+
+
 
 
 ### Professional Skills  
@@ -14,7 +16,7 @@
 </a>  
 
 <a href="https://www.netacad.com/" target="_blank">
-<img style="margin: 10px; display:inline-block;" src="https://cdnlogo.com/logo/cisco-systems_38446.html" alt="Cisco" height="50" />
+<img style="margin: 10px; display:inline-block;" src="https://github.com/user-attachments/assets/746d993f-107a-4114-bbc2-f4f56d50f57e" alt="Cisco" height="50" />
 </a>  
 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
