@@ -9,7 +9,7 @@
 ### Professional Skills  
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<img width="4096" height="4096" alt="cdnlogo com_cisco-systems" src="https://github.com/user-attachments/assets/1d53362d-2cd8-493e-a58d-859048ad3b5e" />
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px"src="https://github.com/user-attachments/assets/1d53362d-2cd8-493e-a58d-859048ad3b5e" alt="Cisco" height="50" /></a> 
 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
