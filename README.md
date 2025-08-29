@@ -5,10 +5,7 @@
 
 - 👀 I’m interested in Graphic design, UI/UX design, Animation, Multimedia
 - 🌱 I’m currently learning everything 
-- 📫 Trying to imporve myself everyday
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💞️ Fun Fact: Iron Man Fan😁
-
+- 📫 Teaching Cisco Network Design to students 
 
 ## My Skill Set  
 
