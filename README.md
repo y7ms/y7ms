@@ -10,6 +10,8 @@
 ## 💻 My Skill Set  
 
 
+![Build an OSPF based network using three interconnected routers](https://github.com/user-attachments/assets/ccec8cbc-fb1f-4bb8-a52b-8adb49d5e1b1)
+
 
 
 
