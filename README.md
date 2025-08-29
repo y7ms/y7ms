@@ -4,8 +4,8 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+UI%2FUX+Designer;I'm+a+Network+Engineer;)
 
 - 👀 I’m interested in Graphic design, UI/UX design, Animation, Multimedia
-- 🌱 I’m currently learning everything 
-- 📫 Teaching Cisco Network Design to students 
+- 🌱 Teaching Cisco Network Design to students 
+- 📫 I’m currently learning 
 
 ## 💻 My Skill Set  
 
