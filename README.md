@@ -1,4 +1,4 @@
-<img width="4096" height="4096" alt="cdnlogo com_cisco-systems" src="https://github.com/user-attachments/assets/ebf02fc3-e630-49a1-bb7b-970116ab6d8a" />
+
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, It's me Divya S!😇
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+UI%2FUX+Designer;I'm+a+Network+Engineer;)
