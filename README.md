@@ -41,7 +41,7 @@
 
 <br/>  
 
-## 📫 Reach out to me 
+## 🤝🏻 Connect with Me
 
 <div align="center"> 
 <a href="sriammansubramani@gmail.com" target="_blank">
