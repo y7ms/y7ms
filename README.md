@@ -3,7 +3,7 @@
 # Hello👋, It's me Divya S!😇
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+UI%2FUX+Designer;I'm+a+Network+Engineer;)
 
-- 👀 I’m interested in New Tech, Frontend Development, Python
+- 👀 I’m interested in Graphic design, UI/UX design, Animation, Multimedia
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
 - 🥅 2021 Goals: Contribute more to Open Source projects
