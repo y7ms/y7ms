@@ -4,6 +4,7 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+UI%2FUX+Designer;I'm+a+Network+Engineer;)
 
 ## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 ### Professional Skills  
 <div align="center">  
