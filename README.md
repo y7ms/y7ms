@@ -9,7 +9,7 @@
 
 ## 💻 My Skill Set  
 
-### 🛠️ Professional Skills  
+### Professional Skills  
 <div align="center">  
 
 <a href="https://www.figma.com/" target="_blank">
@@ -41,7 +41,7 @@
 
 <br/>  
 
-## 🤝🏻 Connect with Me
+## 📫 Reach out to me
 
 <div align="center"> 
 <a href="sriammansubramani@gmail.com" target="_blank">
