@@ -40,13 +40,7 @@
 <br/>  
 
 
-### Professional Skills  
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+
 
 <!-- Networking Cisco -->
 <a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/480/cisco-logo.png" alt="Cisco Networking" height="50" /></a>  
