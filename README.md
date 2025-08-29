@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning everything 
 - 📫 Teaching Cisco Network Design to students 
 
-## My Skill Set  
+## 💻 My Skill Set  
 
-### Professional Skills  
+### 🛠️ Professional Skills  
 <div align="center">  
 
 <a href="https://www.figma.com/" target="_blank">
