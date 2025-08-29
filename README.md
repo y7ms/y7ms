@@ -14,7 +14,7 @@
 </a>  
 
 <a href="https://www.netacad.com/" target="_blank">
-<img style="margin: 10px; display:inline-block;" src="https://img.icons8.com/color/480/cisco-logo.png" alt="Cisco" height="50" />
+<img style="margin: 10px; display:inline-block;" src="https://cdnlogo.com/logo/cisco-systems_38446.html" alt="Cisco" height="50" />
 </a>  
 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
